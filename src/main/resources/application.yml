@@ -5,3 +5,7 @@ spring:
   mvc:
     pathmatch:
       matching-strategy: ant_path_matcher
+
+logging:
+  level:
+    com.ll.exam.app_2022_12_19_1_chat: debug
